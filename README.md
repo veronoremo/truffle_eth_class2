@@ -10,10 +10,10 @@ The scope of the Code is to show what you can achieve in Solidity, Ethereum, Web
 * Web3 
 * Listen and react to specific events
 * Write Test Cases
+* Work with Truffle and WebPack
 * Deploy the DApp
 * Work with Remix
 * Work with MetaMask
-* Work with Truffle and WebPack
 
 ## Install Instructions
 
@@ -50,3 +50,6 @@ For MIST:
 
 ## Contact
 If you run into any problems, don't hesitate to contact us on the course-forum at any time. If you use the forum-search function, there is a high chance that you find the answer to your problem already.
+
+## Consensys
+Consensys includes Truffle + Linea + Infura. There is a big ecosystem.
